@@ -1,5 +1,4 @@
 from tkinter.ttk import Combobox
-
 import requests
 import json
 import pprint
